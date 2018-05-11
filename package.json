@@ -1,0 +1,20 @@
+{
+  "name": "mockup-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "gulp dev"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.24.4",
+    "del": "^3.0.0",
+    "edge.js": "^1.1.4",
+    "gulp": "^4.0.0",
+    "gulp-plumber": "^1.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^4.0.1",
+    "gulp-tap": "^1.0.1",
+    "node-sass": "^4.9.0"
+  }
+}
